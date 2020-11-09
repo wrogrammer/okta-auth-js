@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.2.0
+
+### Features
+
+- [#518](https://github.com/okta/okta-auth-js/pull/518) Added `claims` to `AccessToken`
+
 ## 4.1.2
 
 ### Bug Fixes
